@@ -1,3 +1,3 @@
 <?php
-  print "welcome !!!"
+  print "welcome !!!";
 ?>
